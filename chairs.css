@@ -461,10 +461,10 @@ p{
       align-items: center; /* Centers items horizontally */
   }
 
-    .desc-sec{
-  display: flex;
+.desc-sec{
+  display: inline-block;
   flex-direction:row;
-  padding: 40px 20px;
+  padding: 10px 20px;
   align-items: center; 
 }
 
@@ -488,7 +488,7 @@ p{
 
       display:flex;
       flex-direction:row; 
-      margin: 5px; 
+/*       margin: 5px;  */
   }
 
  
