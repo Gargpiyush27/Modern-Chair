@@ -461,6 +461,13 @@ p{
       align-items: center; /* Centers items horizontally */
   }
 
+    .desc-sec{
+  display: flex;
+  flex-direction:row;
+  padding: 40px 20px;
+  align-items: center; 
+}
+
   .wrap-info {
       margin-left: 0;
       text-align: center;
@@ -481,7 +488,7 @@ p{
 
       display:flex;
       flex-direction:row; 
-      margin: 10px; 
+/*       margin: 5px;  */
   }
 
  
